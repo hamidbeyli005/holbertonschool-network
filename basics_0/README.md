@@ -14,13 +14,13 @@ How is the OSI model organized?
 Internet
 WAN
 LAN
-What type of network could connect an office in one building to another office in a building a few streets away?
 
+What type of network could connect an office in one building to another office in a building a few streets away?
 Internet
 WAN
 LAN
-What network do you use when you browse www.google.com from your smartphone (not connected to the Wifi)?
 
+What network do you use when you browse www.google.com from your smartphone (not connected to the Wifi)?
 Internet
 WAN
 LAN
@@ -67,7 +67,6 @@ That shows the PID and name of the program to which each socket belongs
 Write a Bash script that pings an IP address passed as an argument.
 
 Requirements:
-
 Accepts a string as an argument
 Displays Usage: 5-is_the_host_on_the_network {IP_ADDRESS} if no argument passed
 Ping the IP 5 times
